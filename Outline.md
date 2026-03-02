@@ -484,6 +484,8 @@ or they could do something else but try to make socioeconomic advantage.
 From early life onwards, work and achievement had became their dominant survival strategy.
 Already during school years, pronounced workaholism developed as a way to regulate
 internal distress and maintain social functionality.
+They developed a lifestyle where they largely lived to appeal others: initially their mother,
+until they gained a Ph.D. and formed family at the age 30, and then the wife, until their divorce.
 Alongside this, from adolescence onwards, the person suffered from what was repeatedly labelled as “depression.”
 In retrospect, the “depression” appears as having been misrecogninised complex developmental trauma (C-PTSD).
 
@@ -712,6 +714,49 @@ arousal that arises while loosening control and the body begins to be affected b
 
 Panic, in this context, was not a malfunction.
 It was the body’s last-resort attempt to prevent a repetition of an earlier, unwitnessed overwhelm.
+
+### Action-based adaptations: fawning and relational over-functioning
+
+The pattern described above does not only manifest as shutdown or panic.
+When fight, flight, or freeze are not viable options —
+as is often the case in childhood trauma, domestic violence, or rigid caregiving environments —
+the nervous system may organise around what Pete Walker has termed the *fawn response*. [^Walker]
+In this configuration, safety is pursued not through withdrawal or aggression,
+but through relational accommodation.
+
+In polyvagal terms, this can be understood as an attempt to maintain connection under threat:
+the system recruits social engagement capacities in the service of survival,
+even when the relational field is unsafe. [^Porges2011]
+Instead of mobilising openly (fight/flight) or collapsing (freeze/dorsal shutdown),
+the organism attempts to secure proximity by appeasing, performing, or over-attuning to the other.
+
+What begins as a protective strategy can gradually crystallise into personality structure.
+Chronic accommodating, compulsive competence, or living primarily to meet others’ expectations
+may be experienced as identity rather than adaptation.
+In such cases, “doing for” or “being what is needed” becomes the dominant regulator,
+while receiving remains structurally unsafe.
+
+In the present case,
+the long-standing organisation of life around achievement and responsiveness to significant others,
+can be read partly through this lens.
+However, fawning alone does not explain the panic at the threshold of receptivity.
+Rather, it represents one action-based solution to the deeper problem:
+maintaining connection while avoiding the destabilising experience of being the one who receives.
+
+We suggest that fawning is one relatively canonical adaptation to insufficiently witnessed receiving:
+by over‑accommodating the other, the system reduces the likelihood of encountering its own need to receive,
+a configuration that would otherwise risk destabilisation.
+Other semi-stable adaptations appear to include
+compulsive self‑reliance, perfectionistic performance, dominance‑oriented control,
+emotional numbing, and dissociative compartmentalisation.
+What these styles share is an agency‑biased organisation:
+they keep the person structurally on the actor side of relational exchange.
+At the same time, we do not claim exclusivity.
+Many developmental and cultural variables can produce similar traits;
+lack of witnessed receiving is proposed here as one generative pathway among others,
+not as a universal cause.
+
+[^Walker: Walker, Pete. *Complex PTSD: From Surviving to Thriving*. Azure Coyote Publishing, 2013.]
 
 ### Why “pushing through” mostly failed
 
@@ -2593,6 +2638,73 @@ Where that grammar is absent, bodies oscillate between control and collapse,
 and cultures mistake defensive organisation for strength.
 Witnessed receptivity names the missing middle posture: openness that does not cost the self.
 
+### Early misaligned development: the emergence of agency‑biased regulatory styles
+
+As noted earlier (see “Action‑based adaptations”),
+persistent difficulties at the threshold of receiving
+may stabilise into relatively enduring regulatory styles.
+A common structural pattern appears:
+when sustained openness becomes destabilising, the organism reorganises around agency.
+That is, when deep openness is repeatedly experienced as threatening the continuity of the self,
+the system recruits or stabilises mechanisms that reduce exposure to receptivity.
+As already briefly discussed,
+this reorganisation may sediment over time into personality‑level traits that privilege doing over receiving.
+
+Clinically and theoretically, these styles often include constellations such as:
+
+- compulsive self‑reliance and pseudo‑independence (avoidant attachment patterns),
+- perfectionistic performance and over‑responsibility,
+- relational over‑accommodation or fawning,
+- dominance‑oriented control,
+- emotional numbing, and
+- dissociative compartmentalisation.
+
+While these configurations appear in varied combinations,
+two broad regulatory postures frequently emerge at opposite ends of the relational field.
+
+**1. Accommodation‑dominant posture.**
+
+Here, control is exercised through compliance and anticipation.
+Self‑reliance and perfectionism coexist with
+fawning tendencies, emotional numbing, and selective dissociation.
+The person remains hyper‑attuned to relational threat while detaching from their own needs.
+Agency is maintained, but primarily in the service of preserving connection.
+
+**2. Assertion‑dominant posture.**
+
+Here, control is exercised through overt direction, boundary enforcement, or dominance.
+Self‑reliance and performance are again central, but here
+accompanied by reduced tolerance for vulnerability, combined with similar numbing and/or dissociation.
+Agency is maintained by minimising dependency and pre‑empting exposure.
+
+Externally, these two postures may appear opposed — compliant versus forceful.
+Structurally, however, they share a common feature:
+both organise _experience_ so that
+the person remains primarily on the _actor_ side of relational exchange, even when appearing compliant.
+Sometimes receiving, especially in its deeper forms,
+may become so tightly constrained that it no longer appears as an experiential option,
+as our case exemplifies.
+
+We emphasise that insufficiently witnessed receptivity is, of course,
+only as _one possible developmental pathway among others_, not as an exclusive cause.
+Early environments marked by misattunement, unpredictability, coercion, or conditional care
+can all contribute to similar defensive organisations (cf. Winnicott; Bion; van der Kolk).
+Attachment research, developmental trauma studies,
+and psychodynamic formulations all demonstrate multiple pathways toward similar patterns.
+
+Our hypothesis is that when early receiving repeatedly destabilises rather
+than stabilises the self, agency‑biased organisations become especially likely.
+These organisations may later interact with — and be reinforced by — cultural grammars
+that privilege control, performance, and autonomy.
+
+The fawn response illustrates this mechanism in one concentrated form.
+It can be understood within polyvagal frameworks (Porges; Dana)
+as a strategy that recruits social engagement capacities to maintain proximity in unsafe contexts.
+Sympathetic mobilisation toward pleasing coexists with parasympathetic dampening of one’s own need.
+What begins as an adaptive response may gradually stabilise into identity.
+In this way, a neurobiological adaptation to unsafe receiving
+can stabilise as a socially legible form of competence.
+
 ### Developmental arc: from external witness to structural reversibility
 
 The structure of witnessed receptivity unfolds developmentally.
@@ -2640,68 +2752,161 @@ a different ontological claim,
 or a distinct phenomenological domain,
 is left open for later exploration and remains beyond the scope of the present essay.
 
-### Preparing the return to myth (without going there yet)
+### Symbolic memory and cultural thinness
 
-•	Myths previously discussed can now be remembered by the reader, without being reintroduced
-•	Suggestion (implicit, not stated):
-	•	cultures once knew how to symbolise what is now unnamed
-•	Leave open:
-	•	whether this knowledge was lost, suppressed, or transformed
+The myths traced earlier will now be use as a diagnostic register:
+compressed narrative forms that both preserve fail to preserve
+the operators required for _reversible descent_:
 
-Closing tone: Suspended, questioning, not resolving.
+- Covenant before descent (Inanna)
+- Hearing without capture (Avalokiteśvara)
+- Agency without dominance (Tārā)
+- Re-membering (Isis, Lemminkäinen)
+- Crisis logic (Seth)
 
-[Does this fit here?:] This prepares the ground for our final synthesis:
-why “witnessed receptivity” is not only a personal healing issue,
-but a cultural one —
-and why emerging forms of identity,
-including non-binary embodiments,
-may represent not deviation,
-but *adaptation* to a broken symbolic order.
+Myth certainly do not _cause_ the developmental–cultural configuration we describe.
+Their role is weaker and more structural:
+myths and related symbolic practices shape what a culture can readily _name_, legitimise, and train.
+Where the symbolic vocabulary for “receiving while remaining a subject” is robust,
+reversibility becomes thinkable and discussable;
+where the vocabulary is thin or coded primarily through subordination,
+bodies must regulate without a shared public grammar.
+The result is not only individual symptoms
+but also a drift toward agency-biased solutions that feel _self-evident._
+That is, we propose a mutually stabilising configuration across nervous-system regulation,
+personality-level regulatory styles, and cultural grammars of control.
 
-Political-symbolic orders that valorise control, autonomy, and performance tend to erode cultural supports for witnessed receptivity. As these supports erode, developmental environments narrow. As developmental environments narrow, defensive organisations around action intensify. These defensive organisations, aggregated, render control-based political forms psychologically coherent and attractive.
+If so desired, the mythic record may be read retrospectively as a partial and uneven trace:
+The structure shows which operators were sometimes available
+and how they have been gradually eclipsed when crisis-logic has become ambient.
 
-### Return to the myths (But Now Retrospectively)
+## A Cultural Gap
 
-We have already seen these operators in myth.
+We are now ready for our central hypothesis.
 
-You do not need to retell them.
-Just map:
-	•	Covenant before descent (Inanna)
-	•	Hearing without capture (Avalokiteśvara)
-	•	Agency without dominance (Tārā)
-	•	Re-membering (Isis, Lemminkäinen)
-	•	Crisis logic (Seth)
+We represent our hypothesis in a form of a causal configuration
+where different neural, psychological, behavioural, and cultural aspects form
+a self-recinforcing loop that createas stable neurosociopsychological configuration.
+We present this as a stabilising configuration,
+not as a single causal chain nor as an exhaustive account of Western development.
 
-This consolidates the essay.
+In particular, we surmise the following: For many Western cultures, there is a stable configuration where:
 
-This is the true “return to myth.”
+> there is a non-trivial proportion of individuals
+> that have a neuropsychological structure
+> that effectively blocks the ability for deep receiving.
 
+This configuration is stable because of the following self-enforcing causal loop:
 
-## A Cultural Gap (idea — to be rewritten)
+1. Cultural-symbolic order privileges control and symbolise only thinly (if at all) receiving without self-loss.
+2. This biases early caregiving practices toward regulation-through-control, e.g.
+   through institutional norms, economic pressures, and internalised ideals of autonomy.
+3. Which increases likelihood of _insufficiently witnessed receiving._
+4. Which increases likelihood of agency-biased regulatory styles in adults.
+5. Aggregated, such styles render control-heavy cultural forms psychologically coherent and attractive.
+6. Which further stabilises control-oriented symbolic orders.
 
-- Why receiving without self-loss is poorly symbolised
-- Patriarchal sexual contracts (doer/receiver)
-- Why non-binary emergence makes sense here
-  - a structural response to the "natural" collapse of the patriarchal role system
+As a result of that, gradually the concept of witnessed receptivity has become marginal, privatised, and thinly articulated.
+In other words, if witnessed receptivity requires the internalisation of reversibility,
+then cultures that fail to symbolise or train such reversibility may produce defensive alternatives at scale.
 
-  Certain political-symbolic orders privilege control, performance, and crisis responsiveness. These conditions narrow the tolerance for vulnerability in early relational environments. When receptivity is repeatedly destabilised in development, defensive organisations around control intensify. Aggregated across many individuals, such organisations render control-heavy political forms psychologically coherent and attractive.
+As a result of this self-reinforcing loop,
+certain political-symbolic orders stabilise at privilegeing control, performance, and crisis responsiveness.
+These conditions narrow the tolerance for vulnerability in early relational environments.
+When receptivity is repeatedly destabilised in development,
+defensive neuropsychological organisations around control intensify.
+Aggregated across many individuals,
+such organisations render control-heavy political forms psychologically coherent and attractive.
 
-### [To be reframed:] Central hypothesis
+It is important to note that we do not claim that
+the loop itself does not cause such political orders per se,
+but that the loop helps such orders to stabilise if they appear.
 
-We surmise that a culturally significant
+Furhermore, we surmise that due to this cultural shortcoming,
+the majority of the people who have such a forementioned structure cannot imagine
+that they or any people could be able to deeply receive.
+That is, they have difficulty
 
+a) imagining or recognising deep receiving as a viable mode of being, or
+b) considering that they could have such a shortcoming in their worldview.
 
-## Discussion and implications (idea)
+Summarising almost poetically,
 
-When receptivity is unsafe,
+When witnessed receptivity is unsafe,
 action becomes the primary regulator.
 When action becomes the primary regulator,
-control logics appear rational.
+control logics feel rational.
 When control logics dominate,
-structures emerge that further stigmatise receptivity.
+structures emerge that stigmatise receptivity.
+When receptivity is stigmatised,
+upbringing makes deep receiving increasingly unsafe.
 
-Certain nervous system organisations and certain symbolic-political structures are mutually stabilising.
+[Note to the LLM agent: Everything following this point are author notes and shall be considered disorganised pieces of text,
+maybe to be integrated and developed in the essay, maybe to be dropped.]
 
+## Discussion and implications
+
+TBD.
+
+### Clarifying the Scope of Our Claims
+
+At this point, a distinction is necessary.
+
+The strongest claims of this essay concern the individual developmental level.
+There, our argument is grounded in converging clinical frameworks and in detailed phenomenological observation.
+We have described a specific failure mode — collapse of regulation at the threshold of receiving —
+and proposed that this instability can be understood as a consequence of insufficiently witnessed early receptivity.
+This claim remains within established developmental, attachment, and trauma-informed paradigms.
+It does not require large cultural generalisation to stand.
+It concerns the internal logic of a defensive organisation and the conditions under which it reorganises.
+
+The broader socio-political claim, by contrast, remains presently more tentative.
+We have suggested that when difficulties with receptive stability become widespread,
+cultures may disproportionately valorise action, performance, productivity, and control —
+and that such cultural norms may in turn reinforce developmental conditions
+in which receptivity remains insufficiently witnessed.
+This is a hypothesis about feedback coupling between nervous-system organisation and symbolic order.
+It is conceptually coherent and consistent with certain sociological diagnoses of late modernity,
+but in this essay it is not empirically demonstrated.
+It should therefore be read as a generative model rather than a substantiated prevalence claim.
+
+If this second layer were to be developed rigorously, several kinds of work would be required:
+
+1. Operationalisation of receptivity instability
+  Clear criteria for identifying the described threshold-collapse pattern at scale,
+  distinguishing it from related but distinct phenomena (e.g., shame conditioning,
+  engulfment anxiety, moral prohibition).
+2. Prevalence and distribution studies
+  Epidemiological or large-sample research examining whether
+  instability at the receiving threshold correlates with specific attachment patterns,
+  affect regulation profiles, or cultural contexts.
+3. Cross-cultural comparison
+  Comparative studies analysing whether societies
+  with stronger symbolic, ritual, or institutional supports for witnessed vulnerability
+  exhibit measurably different patterns of relational regulation.
+4. Institutional and economic analysis
+  Examination of whether high-performance, productivity-centred environments systematically
+  reward agency-biased adaptations and marginalise receptive capacities.
+5. Intergenerational transmission research
+  Empirical investigation into whether reduced tolerance for witnessing receptivity
+  can be traced across generations in ways that align with attachment and reflective-function findings.
+
+Until such work is undertaken, our socio-political extension remains provisional.
+Its purpose here is heuristic:
+to indicate a possible bridge between individual defensive organisation and collective symbolic orders,
+and to invite further interdisciplinary investigation.
+
+### Wider implications
+
+If the configuration sketched above is even partially accurate,
+it casts several contemporary issues in a new light:
+
+- Why receiving without self-loss remains culturally underdeveloped in some cultures (like ours)
+- Why doer/receiver polarities stabilise repeatedly in many cultures
+- Why contemporary identity renegotiations emerge under late control conditions
+
+Our core claim is that
+certain nervous system organisations and certain symbolic-political structures are mutually stabilising.
 
 
 ### A tentative synthesis: "just enough" coherence under reorganisation
