@@ -12,9 +12,9 @@ the experience, when prolonged, may lead to deep trauma.
 In this essay (work in progress), we argue that quite a few
 people in Western culture may have such trauma, at least in a mild sense,
 creating a self-reinforcing structure where
-mild trauma-like psychological structures stablise our culture in one hand and
-the culture contributes to inter-genrational stability of such structures in the other hand.
-In essense, we pave road towards a structural claim that
+mild trauma-like psychological structures stabilise our culture in one hand and
+the culture contributes to inter-generational stability of such structures in the other hand.
+In essence, we pave road towards a structural claim that
 certain political-symbolic orders and certain trauma-like organisations stabilise each other.
 
 ## Disclaimer
@@ -33,7 +33,7 @@ is a result of human insight and synthesis. Furthermore, I have reviewed and rev
 all the details, but still errors may and are even likely to remain, in this version.
 
 My aim is to make later versions of this essay more humanly grounded.
-At this point the reader is adviced to take a critical position on the details,
+At this point the reader is advised to take a critical position on the details,
 hopefully without allowing any faults in the details to necessarily collapse the whole structure.
 With gradual weeding of eventual faults and plugging of remaining holes I believe that
 my central observations and claims will hold.
@@ -43,7 +43,8 @@ structural issue, a largely hidden mutually reinforcing loop between trauma and 
 
 ## Introduction (a draft, to be revised)
 
-Human development depends not only on nourishment and protection, but on being seen as a subject.
+Human development depends not only on nourishment and protection, 
+but on being seen as a subject.
 When such “being seen” is sufficiently stable,
 the individual gradually acquires the capacity to receive
 without losing a sense of continuity of self.
